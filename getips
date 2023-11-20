@@ -1,0 +1,2 @@
+#!/bin/bash
+zmap -p 25 -B 800M --output-file="ips.txt" -i eth0
